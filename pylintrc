@@ -1,0 +1,3 @@
+[REPORTS]
+msg-template="{msg_id}({symbol}) - {obj} Line #{line}: {msg}"
+
