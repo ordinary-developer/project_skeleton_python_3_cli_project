@@ -27,7 +27,7 @@ An example of how to use it or get it running
   or
 
  `$ git clone
- https://github.com/ordinary-developer/project_skeletons_python_3_cli_project.git'
+ https://github.com/ordinary-developer/project_skeleton_python_3_cli_project.git'
 
 
 
